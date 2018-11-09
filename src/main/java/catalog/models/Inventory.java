@@ -1,4 +1,4 @@
-ackage catalog.models;
+package catalog.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
